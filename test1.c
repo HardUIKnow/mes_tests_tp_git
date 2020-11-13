@@ -2,8 +2,8 @@
 
 int main(int argc, char const *argv[])
 {
-    printf("world \n");
+    printf("hello world \n");
 
-    printf("tp git \n" );
+    printf("ceci est un exemple de tp git \n" );
     return 0;
 }
